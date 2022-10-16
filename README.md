@@ -2,20 +2,24 @@
 
 ## PRESENTATION FRANÇAISE
 
-Ce repos regroupe tous les fichiers nécessaires à la réalisation du bartop EXARCADE.
+Ce repos regroupe tous les fichiers nécessaires à la réalisation du bartop EXARCADE. </br>
 
-Vous y trouverez différents dossiers et fichiers tels que : 
- 1- Le fichier des lignes directrices (version française) ;
- 2- Tous les fichiers 3D nécessaires à la réalisation de la cosmétique 3D ;
- 3- Tous les plans nécessaires à la structure du bartop.
+Vous y trouverez différents dossiers et fichiers tels que : </br>
+<ol>
+    <li>Le fichier des lignes directrices (version française);</li>
+    <li>Tous les fichiers 3D nécessaires à la réalisation de la cosmétique 3D;</li>
+    <li>Tous les plans nécessaires à la structure du bartop.</li>
+</ol>
 
 ## ENGLISH PRESENTATION
 
-This repository gathers all the files necessary for the realization of the bartop EXARCADE.
+This repository gathers all the files necessary for the realization of the bartop EXARCADE. </br>
 
-You can find differents folder/files like : 
- 1- Guidelines file (french version);
- 2- All 3D files necessary for the 3D cosmetics;
- 3- All blueprints necessarie for the bartop structure.
- 
+You can find differents folder/files like : </br>
+<ol>
+    <li>Guidelines file (french version);</li>
+    <li>All 3D files necessary for the 3D cosmetics;</li>
+    <li>All blueprints necessarie for the bartop structure.</li>
+</ol>
+
 All files can be translated if required.
