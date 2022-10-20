@@ -8,8 +8,8 @@ Vous y trouverez différents dossiers et fichiers tels que : </br>
 <ol>
     <li>Le fichier des lignes directrices (version française);</li>
     <li>Tous les fichiers 3D nécessaires à la réalisation de la cosmétique 3D;</li>
-    <li>Tous les fichiers pour les découpes à la fraiseuse CNC;</li>
-    <li>Les fichiers pour la découpe à la découpeuse laser;</li>
+    <li>Tous les fichiers pour les découpes à la fraiseuse CNC (Optionnel);</li>
+    <li>Les fichiers pour la découpe à la découpeuse laser (Optionnel);</li>
     <li>Tous les plans nécessaires à la structure du bartop.</li>
 </ol>
 
